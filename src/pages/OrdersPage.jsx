@@ -1,4 +1,5 @@
-import './orders.css'
+import './OrdersPage.css'
+import './Header.css'
 
 export function OrdersPage() {
     return (
